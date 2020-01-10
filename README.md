@@ -7,3 +7,4 @@
 * [Terminal é show](./000/terminal-e-show.md)
 * [Preparando o campo](./000/preparando-o-campo.md)
 * [Instalando Ubunto e Hyper](./000/instalando-ubuntu-e-hyper.md)
+* [Terminando Ubuntu](./000/terminando-ubuntu.md)
