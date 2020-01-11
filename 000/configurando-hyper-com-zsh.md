@@ -22,7 +22,8 @@ shell: '',
 * Executar: vim .bashrc
 * i
 * colar embaixo de `for exemples`: bash -c zsh
-* :x 
+* :x
+* source .zshrc tab + enter `reload`
 
 ## Bônus
 ### Vim
@@ -30,3 +31,4 @@ shell: '',
 * :x `salva e sai`
 * :q `sai`
 * :q! `sai sem salvar`
+* v `modo visual`
