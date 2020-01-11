@@ -10,3 +10,4 @@
 * [Terminando Ubuntu](./000/terminando-ubuntu.md)
 * [Instalando zsh](./000/instalando-zsh.md)
 * [Instalando oh my zsh](./000/instalando-oh-my-zsh.md)
+* [Configurando o hyper com zsh](./000/configurando-hyper-com-zsh.md)
