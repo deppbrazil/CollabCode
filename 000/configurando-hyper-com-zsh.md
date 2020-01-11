@@ -1,7 +1,7 @@
 # Configurando Hyper com zsh
 
 ## Abrir o Hyper
-    * menu > edit > preference
+* menu > edit > preference
 
 ## Fonte 
 * fontSize: xx
@@ -18,8 +18,8 @@ shell: '',
 
 ## Inicializando o Hyper com zsh 
 * Abrir o terminal do Ubuntu
-* Execurar: l
-* Executar: vim .bashrc
+* l
+* vim .bashrc
 * i
 * colar embaixo de `for exemples`: bash -c zsh
 * :x
