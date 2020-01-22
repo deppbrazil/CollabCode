@@ -12,3 +12,4 @@
 * [Instalando oh my zsh](./000/instalando-oh-my-zsh.md)
 * [Configurando o hyper com zsh](./000/configurando-hyper-com-zsh.md)
 * [Mudando tema do zsh](./000/mudando-tema-do-zsh.md)
+* [Abrir dúvida no Fórum](./000/abrir-duvida-no-forum.md)
