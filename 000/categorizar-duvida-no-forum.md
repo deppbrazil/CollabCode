@@ -7,5 +7,5 @@
 * Confirmação no e-mail
 
 ## Criar label
-* Ir em labels > criar nova label
+* Labels > criar nova label
 * Não usar vermelho
