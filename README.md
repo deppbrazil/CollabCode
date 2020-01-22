@@ -14,3 +14,4 @@
 * [Mudando tema do zsh](./000/mudando-tema-do-zsh.md)
 * [Abrir dúvida no Fórum](./000/abrir-duvida-no-forum.md)
 * [Categorizar dúvida no Forum](./000/categorizar-duvida-no-forum.md)
+* [Votar e fechar dúvida no Forum](./000/votar-e-fechar-duvida-no-forum.md)
